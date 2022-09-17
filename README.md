@@ -1,3 +1,8 @@
 # building-a-game-with-java
-This repository contain a project where I would to create a simple game with java that I think to name "Rocket Race".
-![immagine my_game](https://user-images.githubusercontent.com/96810806/190866229-d82aa5eb-638d-48cd-ad1b-2ae52c42fa25.png)
+This repository contain a project in-progress where I would to create a simple game with java called Rocket Race.
+This is the start window.
+![immagine my_game](https://user-images.githubusercontent.com/96810806/190866865-2de74fbc-82e8-4ee1-9758-5d2ddd148fb3.png)
+
+
+
+
